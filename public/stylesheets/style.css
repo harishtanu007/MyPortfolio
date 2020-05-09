@@ -257,7 +257,7 @@ button.navbar-toggle.collapsed {
 	height: auto;
 	text-align: center;
 	color: white;
-	background: url(https://i.pinimg.com/originals/51/95/eb/5195ebb8c5f9772deda82aa2937134d3.jpg) no-repeat top center scroll;
+	background: url(https://i.ibb.co/vmdvVLw/Background.jpg) no-repeat top center scroll;
 	background-size: cover;
 	-o-background-size: cover;
 }
@@ -734,6 +734,8 @@ div.button-social a:hover {
 
 .portfolio-details {
 	text-align: center;
+	margin: 0 auto;
+	horizontal-align : middle;
 }
 
 .thumbnail {
